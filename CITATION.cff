@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "AcmPilot"
+abstract: "Adaptive coding and modulation on a single optical link under feedback delay — declared MODCOD set with measured thresholds, fixed-margin and hysteresis-threshold policies plus a clairvoyant upper bound no causal policy can beat, throughput and outage and mis-selection accounting against round-trip feedback delay; learned channel predictor over the feedback horizon with a confidence output gating aggressive rate choices."
+type: software
+authors:
+  - family-names: "Acharya"
+    given-names: "Om"
+    alias: "OmAcharya-avtr"
+repository-code: "https://github.com/OmAcharya-avtr/acmpilot"
+license: "AGPL-3.0"
+version: "0.1.0"
+date-released: "2026-08-30"
+keywords:
+  - aerospace
+  - optical-modulation
